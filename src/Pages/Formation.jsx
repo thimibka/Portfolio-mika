@@ -1,0 +1,62 @@
+export default function Formation() {
+  return (
+    <>
+      <h1>Formation THP</h1>
+
+      <p>
+        Formation en perr-learning de 1250h ou nous avons appris les sujet
+        suivant :<br />
+        -Terminal
+        <br />
+        -Html
+        <br />
+        -Css
+        <br />
+        -Git hub
+        <br />
+        -Bootstrap
+        <br />
+        -Atomic design
+        <br />
+        -Ruby
+        <br />
+        -Programation orienté objet
+        <br />
+        -Model vue controller
+        <br />
+        -Rails
+        <br />
+        -SQL POSTGRESQL
+        <br />
+        -Deployement fly.io/Heroku
+        <br />
+        -Javascript vanilla
+        <br />
+        -Dom
+        <br />
+        -Figma
+        <br />
+        -Trello
+        <br />
+        -Méthode agile
+        <br />
+        -ES6 variables,fonction et methodes
+        <br />
+        -ES6 les classes
+        <br />
+        -La récursivité
+        <br />
+        -La complexité algorithmique
+        <br />
+        -Les arbres binaires
+        <br />
+        -Regex
+        <br />
+        -Api
+        <br />
+        -React.js
+        <br />
+      </p>
+    </>
+  );
+}
