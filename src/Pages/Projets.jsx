@@ -7,7 +7,7 @@ export default function Projets() {
       <div className="projets">
         <ul>
           <Card style={{ width: "50rem" }}>
-            <Card.Img variant="top" src="src/assets/projets/image1.jpg" />
+            <Card.Img variant="top" src="/projets/image1.jpg" />
             <Card.Body>
               <Card.Title>Projet parcours full stack :</Card.Title>
               <Card.Text>
@@ -32,7 +32,7 @@ export default function Projets() {
           </Card>
 
           <Card style={{ width: "50rem" }}>
-            <Card.Img variant="top" src="src/assets/projets/image2.jpg" />
+            <Card.Img variant="top" src="/projets/image2.jpg" />
             <Card.Body>
               <Card.Title> Projet parcours dev :</Card.Title>
               <Card.Text>
@@ -53,7 +53,7 @@ export default function Projets() {
           </Card>
 
           <Card style={{ width: "50rem" }}>
-            <Card.Img variant="top" src="src/assets/projets/image3.jpg" />
+            <Card.Img variant="top" src="/projets/image3.jpg" />
             <Card.Body>
               <Card.Title> Projet perso</Card.Title>
               <Card.Text>

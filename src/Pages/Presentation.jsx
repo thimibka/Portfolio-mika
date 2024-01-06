@@ -6,8 +6,8 @@ export default function Home() {
       <h1>Presentation</h1>
       <div className="presentation">
         <Card style={{ width: "30rem" }}>
-          <Card.Img variant="top" src="src/assets/moi.webp" />
-          <Card.Body>
+          <Card.Img variant="top" src="/moi.webp" />
+          <Card.Body>ssets
             <Card.Title>GERVAIS Mickael</Card.Title>
             <Card.Text>
               <p>

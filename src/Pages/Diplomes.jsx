@@ -15,7 +15,7 @@ export default function Diplomes() {
         <Row>
           <Col>
             <Card style={{ width: "18rem" }}>
-              <Card.Img variant="top" src="../diplomes/image1.jpg" />
+              <Card.Img variant="top" src="/diplomes/image1.jpg" />
               <Card.Body>
                 <Card.Title>RNCP 5 (Développeur web)</Card.Title>
                 <Card.Text>...</Card.Text>
