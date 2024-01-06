@@ -12,7 +12,7 @@ function App() {
     <>
       <NavPortFolio />
       <Routes>
-        <Route path="/Presentation" element={<Presentation />} />
+        <Route path="/" element={<Presentation />} />
         <Route path="/Formation" element={<Formation />} />
         <Route path="/Diplomes" element={<Diplomes />} />
         <Route path="/Projets" element={<Projets />} />
