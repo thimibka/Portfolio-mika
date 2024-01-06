@@ -1,3 +1,18 @@
 body {
-  background-color: rgb(59 130 246 / .4);;
+  background-color: rgb(59 130 246 / 0.4);
+}
+.presentation {
+  display: flex;
+  justify-content: center;
+}
+.formation {
+  display: flex;
+  justify-content: center;
+}
+.projets {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  margin-bottom: 50px;
 }
