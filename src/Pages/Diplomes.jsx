@@ -15,7 +15,7 @@ export default function Diplomes() {
         <Row>
           <Col>
             <Card style={{ width: "18rem" }}>
-              <Card.Img variant="top" src="src/assets/diplomes/image1.jpg" />
+              <Card.Img variant="top" src="/assets/diplomes/image1.jpg" />
               <Card.Body>
                 <Card.Title>RNCP 5 (Développeur web)</Card.Title>
                 <Card.Text>...</Card.Text>
@@ -26,7 +26,7 @@ export default function Diplomes() {
 
           <Col>
             <Card style={{ width: "18rem" }}>
-              <Card.Img variant="top" src="src/assets/diplomes/image2.jpg" />
+              <Card.Img variant="top" src="/assets/diplomes/image2.jpg" />
               <Card.Body>
                 <Card.Title>
                   RNCP 3 MSAMC (Monteur structure aeronautique metalique et
@@ -39,7 +39,7 @@ export default function Diplomes() {
           </Col>
           <Col>
             <Card style={{ width: "18rem" }}>
-              <Card.Img variant="top" src="src/assets/diplomes/image3.jpg" />
+              <Card.Img variant="top" src="/assets/diplomes/image3.jpg" />
               <Card.Body>
                 <Card.Title>
                   CQPM (certificat de qualification paritaire de la metallurgie)
@@ -53,7 +53,7 @@ export default function Diplomes() {
         <Row>
           <Col>
             <Card style={{ width: "18rem" }}>
-              <Card.Img variant="top" src="src/assets/diplomes/image4.jpg" />
+              <Card.Img variant="top" src="/assets/diplomes/image4.jpg" />
               <Card.Body>
                 <Card.Title> BEP ELECTROTECHNIQUE</Card.Title>
                 <Card.Text>...</Card.Text>
@@ -64,7 +64,7 @@ export default function Diplomes() {
 
           <Col>
             <Card style={{ width: "18rem" }}>
-              <Card.Img variant="top" src="src/assets/diplomes/image5.jpg" />
+              <Card.Img variant="top" src="/assets/diplomes/image5.jpg" />
               <Card.Body>
                 <Card.Title>BREVET INFORMATIQUE NIVEAU 1 ET 2</Card.Title>
                 <Card.Text>...</Card.Text>
@@ -74,7 +74,7 @@ export default function Diplomes() {
           </Col>
           <Col>
             <Card style={{ width: "18rem" }}>
-              <Card.Img variant="top" src="src/assets/diplomes/image6.jpg" />
+              <Card.Img variant="top" src="/assets/diplomes/image6.jpg" />
               <Card.Body>
                 <Card.Title>BREVET DES COLLÈGES</Card.Title>
                 <Card.Text>...</Card.Text>
