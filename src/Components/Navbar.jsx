@@ -6,19 +6,23 @@ import Navbar from "react-bootstrap/Navbar";
 const NavPortFolio = () => {
   return (
     <>
-      <Navbar bg="primary" data-bs-theme="dark">
+      <Navbar
+        style={{ backgroundColor: "rgba(59, 130, 246, 0.4)" }}
+        data-bs-theme="dark"
+      >
         <Container>
           <Nav className="me-auto">
-            <Nav.Link as={Link} to="/">
+            <Nav.Link as={Link} to="/" style={{ color: "black" }}>
+              {" "}
               Presentation
             </Nav.Link>
-            <Nav.Link as={Link} to="/Formation">
+            <Nav.Link as={Link} to="/Formation" style={{ color: "black" }}>
               Formation
             </Nav.Link>
-            <Nav.Link as={Link} to="/Diplomes">
+            <Nav.Link as={Link} to="/Diplomes" style={{ color: "black" }}>
               Diplomes
             </Nav.Link>
-            <Nav.Link as={Link} to="/Projets">
+            <Nav.Link as={Link} to="/Projets" style={{ color: "black" }}>
               Projets
             </Nav.Link>
           </Nav>
