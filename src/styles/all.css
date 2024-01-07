@@ -2,12 +2,12 @@ body {
   background-color: rgb(59 130 246 / 0.4);
 }
 .presentation {
-  display: flex;
-  justify-content: center;
+   margin-left: 50px;
+  margin-right: 50px;
 }
 .formation {
-  display: flex;
-  justify-content: center;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .projets {
  margin-left: 50px;
