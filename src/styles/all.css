@@ -10,8 +10,8 @@ body {
   justify-content: center;
 }
 .projets {
-  display: flex;
-  justify-content: center;
+ margin-left: 50px;
+ margin-right: 50px;
 }
 .card {
   margin-bottom: 50px;
