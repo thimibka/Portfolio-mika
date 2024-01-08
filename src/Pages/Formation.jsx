@@ -8,7 +8,7 @@ export default function Formation() {
         <Card style={{ width: "30rem" }}>
           <Card.Body>
             <Card.Title>
-              Formation en perr-learning de 1250h ou nous avons appris les sujet
+              Formation en perr-learning de 1250h où nous avons appris les sujet
               suivant :
             </Card.Title>
             <Card.Text>

@@ -29,7 +29,7 @@ export default function Diplomes() {
               <Card.Img variant="top" src="/diplomes/image2.jpg" />
               <Card.Body>
                 <Card.Title>
-                  RNCP 3 MSAMC (Monteur structure aeronautique metalique et
+                  RNCP 3 MSAMC (Monteur structure aéronautique métallique et
                   composite)
                 </Card.Title>
                 <Card.Text>...</Card.Text>
@@ -42,7 +42,7 @@ export default function Diplomes() {
               <Card.Img variant="top" src="/diplomes/image3.jpg" />
               <Card.Body>
                 <Card.Title>
-                  CQPM (certificat de qualification paritaire de la metallurgie)
+                  CQPM (Certificat de qualification paritaire de la métallurgie)
                 </Card.Title>
                 <Card.Text>...</Card.Text>
                 {/* <Button variant="primary">Go somewhere</Button> */}

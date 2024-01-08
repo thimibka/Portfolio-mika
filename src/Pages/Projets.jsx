@@ -19,7 +19,7 @@ export default function Projets() {
                     Creation d&apos;un site pour un patron de plusieurs
                     complexes d&apos;excalade.
                     <br />
-                    Pour la partie client, l&apos;utilisateur pourra voir tous
+                    Pour la partie client, l&apos;utilisateur pourra voir tout
                     les services du complexe (restauration, coworking, loisir,
                     détente) et aussi acheter un abonnement ou réserver un
                     cours.
@@ -44,7 +44,7 @@ export default function Projets() {
                 <Card.Text>
                   <p>
                     Création d&apos;un site de blind test. Possibilité de
-                    s&apos;inscrire, donnant droit à un suivi de point et de
+                    s&apos;inscrire, donnant droit à un suivi de points et de
                     nombre de parties jouées.{" "}
                   </p>
                 </Card.Text>
@@ -65,8 +65,8 @@ export default function Projets() {
                 <Card.Title> Projet perso</Card.Title>
                 <Card.Text>
                   <p>
-                    Creation d&apos;un site vitrine présentant toutes les
-                    créations faites au crochet
+                    Création d&apos;un site vitrine présentant toutes les
+                    réalisations faites au crochet
                   </p>
                 </Card.Text>
                 <Button

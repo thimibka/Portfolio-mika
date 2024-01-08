@@ -13,9 +13,9 @@ export default function Home() {
               <p>
                 Salut à tous ! Je suis Mickael, un jeune développeur.
                 <br />
-                J&apos;ai récemment plongé dans le monde du numerique et plus
-                precisement du développement web avec ma formation qui m&apos;a
-                permis d&apos; aborder plusieurs langages de programmation, tel
+                J&apos;ai récemment plongé dans le monde du numérique et plus
+                précisément du développement web avec ma formation qui m&apos;a
+                permis d&apos; aborder plusieurs langages de programmation, tels
                 que Html, Css, Ruby on Rails, JavaScript, React.js.
                 <br />
                 Mon objectif est de contribuer à des projets innovants et de
