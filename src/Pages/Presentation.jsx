@@ -3,7 +3,7 @@ import Card from "react-bootstrap/Card";
 export default function Home() {
   return (
     <>
-      <h1>Presentation</h1>
+      <h1>Présentation</h1>
       <div className="presentation">
         <Card style={{ width: "30rem" }}>
           <Card.Img variant="top" src="/moi.webp" />

@@ -14,13 +14,13 @@ const NavPortFolio = () => {
           <Nav className="me-auto">
             <Nav.Link as={Link} to="/" style={{ color: "black" }}>
               {" "}
-              Presentation
+              Présentation
             </Nav.Link>
             <Nav.Link as={Link} to="/Formation" style={{ color: "black" }}>
               Formation
             </Nav.Link>
             <Nav.Link as={Link} to="/Diplomes" style={{ color: "black" }}>
-              Diplomes
+              Diplômes
             </Nav.Link>
             <Nav.Link as={Link} to="/Projets" style={{ color: "black" }}>
               Projets
