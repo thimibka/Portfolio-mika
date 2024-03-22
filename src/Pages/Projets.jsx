@@ -78,6 +78,42 @@ export default function Projets() {
               </Card.Body>
             </Card>
           </Col>
+
+          <Col>
+            <Card style={{ width: "100%" }}>
+              <Card.Img variant="top" src="/projets/image4.jpg" />
+              <Card.Body>
+                <Card.Title> Projet perso</Card.Title>
+                <Card.Text>
+                  <p>
+                    Création d&apos;un site de recherche de jeu video, avec
+                    description de celui ci
+                  </p>
+                </Card.Text>
+                <Button href="https://findgame.vercel.app/" variant="primary">
+                  Click ici
+                </Button>
+              </Card.Body>
+            </Card>
+          </Col>
+
+          <Col>
+            <Card style={{ width: "100%" }}>
+              <Card.Img variant="top" src="/projets/image5.jpg" />
+              <Card.Body>
+                <Card.Title> Projet perso</Card.Title>
+                <Card.Text>
+                  <p>
+                    Création d&apos;un site vitrine présentant toutes les
+                    réalisations faites au crochet
+                  </p>
+                </Card.Text>
+                <Button href="https://searchfilm.vercel.app/" variant="primary">
+                  Click ici
+                </Button>
+              </Card.Body>
+            </Card>
+          </Col>
         </Row>
       </div>
     </>
