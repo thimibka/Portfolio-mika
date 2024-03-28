@@ -103,7 +103,7 @@ export default function Projets() {
               <Card.Body>
                 <Card.Title> Projet perso</Card.Title>
                 <Card.Text>
-                  <p>Création d&apos;un site de film</p>
+                  <p>Création d&apos;un site de recherche de films</p>
                 </Card.Text>
                 <Button href="https://searchfilm.vercel.app/" variant="primary">
                   Click ici
