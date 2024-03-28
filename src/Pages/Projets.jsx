@@ -9,7 +9,7 @@ export default function Projets() {
       <h1>Projets</h1>
       <div className="projets">
         <Row xs={1} sm={2} md={3} lg={3} xl={3}>
-          <Col>
+          {/* <Col>
             <Card style={{ width: "100%" }}>
               <Card.Img variant="top" src="/projets/image1.jpg" />
               <Card.Body>
@@ -56,7 +56,7 @@ export default function Projets() {
                 </Button>
               </Card.Body>
             </Card>
-          </Col>
+          </Col> */}
 
           <Col>
             <Card style={{ width: "100%" }}>
