@@ -111,6 +111,24 @@ export default function Projets() {
               </Card.Body>
             </Card>
           </Col>
+
+          <Col>
+            <Card style={{ width: "100%" }}>
+              <Card.Img variant="top" src="/projets/image6.jpg" />
+              <Card.Body>
+                <Card.Title> Projet perso</Card.Title>
+                <Card.Text>
+                  <p>Création d&apos;un blind-test</p>
+                </Card.Text>
+                <Button
+                  href="https://culture-sound.vercel.app/"
+                  variant="primary"
+                >
+                  Click ici
+                </Button>
+              </Card.Body>
+            </Card>
+          </Col>
         </Row>
       </div>
     </>
