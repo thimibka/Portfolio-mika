@@ -6,7 +6,7 @@ import Formation from "./Pages/Formation";
 import Diplomes from "./Pages/Diplomes";
 import Projets from "./Pages/Projets";
 import NavPortFolio from "./Components/Navbar";
-
+import Curriculum from "./Pages/Curriculum";
 function App() {
   return (
     <>
@@ -16,6 +16,7 @@ function App() {
         <Route path="/Formation" element={<Formation />} />
         <Route path="/Diplomes" element={<Diplomes />} />
         <Route path="/Projets" element={<Projets />} />
+        <Route path="/curriculum" element={<Curriculum />} />
       </Routes>
     </>
   );

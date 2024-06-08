@@ -25,6 +25,9 @@ const NavPortFolio = () => {
             <Nav.Link as={Link} to="/Projets" style={{ color: "black" }}>
               Projets
             </Nav.Link>
+            <Nav.Link as={Link} to="/Curriculum" style={{ color: "black" }}>
+              Curriculum
+            </Nav.Link>
           </Nav>
         </Container>
       </Navbar>
