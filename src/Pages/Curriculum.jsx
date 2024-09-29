@@ -23,7 +23,28 @@ export default function Curriculum() {
             onClick={handleImageClick}
           >
             <Card.Img
-              src="/cv/CV_GERVAIS_Mickael+Annexe.pdf"
+              src="/cv/cv.webp"
+              style={{
+                width: "100%",
+                height: "auto",
+                objectFit: isExpanded ? "contain" : "cover",
+              }}
+            />
+          </Card>
+        </div>
+      </Container>
+      <Container>
+        <div className="curriculum">
+          <Card
+            style={{
+              width: isExpanded ? "auto" : "100%",
+              maxWidth: "70rem",
+              cursor: "pointer",
+            }}
+            onClick={handleImageClick}
+          >
+            <Card.Img
+              src="/cv/annexe.webp"
               style={{
                 width: "100%",
                 height: "auto",
