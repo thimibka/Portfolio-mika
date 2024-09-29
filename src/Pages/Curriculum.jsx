@@ -23,7 +23,7 @@ export default function Curriculum() {
             onClick={handleImageClick}
           >
             <Card.Img
-              src="/cv/cv-dev.webp"
+              src="/cv/CV_GERVAIS_Mickael+Annexe.pdf"
               style={{
                 width: "100%",
                 height: "auto",
