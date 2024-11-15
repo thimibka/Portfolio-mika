@@ -18,9 +18,10 @@ export default function Home() {
                 permis d&apos; aborder plusieurs langages de programmation, tels
                 que Html, Css, Ruby on Rails, JavaScript, React.js.
                 <br />
-                Mon objectif est de contribuer à des projets innovants et de
-                résoudre des problèmes complexes en utilisant mes compétences en
-                développement. J&apos;apprécie particulièrement la collaboration
+                Me voici m&apos;aintenant à l&apos;école 3iL de Limoges en cursus
+                Bachelor Administrateur Systèmes, Réseaux et Cybersécurité.
+                
+                J&apos;apprécie particulièrement la collaboration
                 avec d&apos;autres passionnés pour créer des solutions robustes
                 et durable.
                 <br />
