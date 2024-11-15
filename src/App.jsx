@@ -16,7 +16,7 @@ function App() {
         <Route path="/Formation" element={<Formation />} />
         <Route path="/Diplomes" element={<Diplomes />} />
         <Route path="/Projets" element={<Projets />} />
-        <Route path="/curriculum" element={<Curriculum />} />
+       /* <Route path="/curriculum" element={<Curriculum />} />*/
       </Routes>
     </>
   );
