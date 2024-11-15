@@ -31,9 +31,9 @@ const NavPortFolio = () => {
                 Projets
               </Nav.Link>
               
-             <Nav.Link as={Link} to="/Curriculum" style={{ color: "black" }}>
-               /* Curriculum*/
-              </Nav.Link>
+            /*<Nav.Link as={Link} to="/Curriculum" style={{ color: "black" }}>
+                Curriculum
+              </Nav.Link>*/
             </Nav>
           </Navbar.Collapse>
         </Container>
