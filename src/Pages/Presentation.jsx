@@ -20,14 +20,7 @@ export default function Home() {
                 <br />
                 Me voici m&apos;aintenant à l&apos;école 3iL de Limoges en cursus
                 Bachelor Administrateur Systèmes, Réseaux et Cybersécurité.
-                
-                J&apos;apprécie particulièrement la collaboration
-                avec d&apos;autres passionnés pour créer des solutions robustes
-                et durable.
                 <br />
-                Merci de prendre le temps de me connaître un peu mieux.
-                J&apos;ai hâte de faire partie d&apos;une communauté dynamique
-                et de relever de nouveaux défis.
               </p>
               🌐 Où me trouver :<br />
               GITHUB : <a href="https://github.com/thimibka">ici</a>
