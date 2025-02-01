@@ -23,7 +23,7 @@ export default function Curriculum() {
             onClick={handleImageClick}
           >
             <Card.Img
-              src="/cv/cv_reseau.webp"
+              src="/cv/mickael_gervais_cv.jpg"
               style={{
                 width: "100%",
                 height: "auto",
@@ -44,7 +44,7 @@ export default function Curriculum() {
             onClick={handleImageClick}
           >
             <Card.Img
-              src="/cv/annexe.webp"
+              src="/cv/mickael_gervais_annexe.jpg"
               style={{
                 width: "100%",
                 height: "auto",
