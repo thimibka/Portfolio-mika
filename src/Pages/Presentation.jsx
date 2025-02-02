@@ -18,9 +18,6 @@ export default function Home() {
                 permis d&apos; aborder plusieurs langages de programmation, tels
                 que Html, Css, Ruby on Rails, JavaScript, React.js.
                 <br />
-                Me voici m&apos;aintenant à l&apos;école 3iL de Limoges en cursus
-                Bachelor Administrateur Systèmes, Réseaux et Cybersécurité.
-                <br />
               </p>
               🌐 Où me trouver :<br />
               GITHUB : <a href="https://github.com/thimibka">ici</a>
