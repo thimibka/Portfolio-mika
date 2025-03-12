@@ -8,8 +8,8 @@ const NavPortFolio = () => {
     <>
       <Navbar
         expand="lg"
-        style={{ backgroundColor: "rgba(59, 130, 246, 0.4)" }}
-        data-bs-theme="dark"
+        style={{ backgroundColor: "rgb(131, 210, 241)" }}
+        data-bs-theme="white"
       >
         <Container>
           <Navbar.Brand as={Link} to="/" style={{ color: "black" }}>

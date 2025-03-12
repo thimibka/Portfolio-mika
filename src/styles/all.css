@@ -1,5 +1,13 @@
 body {
-  background-color: rgb(59 130 246 / 0.4);
+  background-color: rgb(18, 18, 19);
+}
+p{
+  color: aqua;
+}
+h1{
+  color: aqua;
+  display: flex;
+  margin-left: 40px;
 }
 .presentation {
   display: flex;
@@ -12,11 +20,17 @@ body {
   justify-content: center;
   margin-left: 50px;
   margin-right: 50px;
+  color: aqua;
 }
 .projets {
   margin-left: 50px;
   margin-right: 50px;
+ 
 }
 .card {
   margin-bottom: 50px;
+}
+.curriculum{
+  display: flex;
+  justify-content: center;
 }

@@ -5,9 +5,9 @@ export default function Formation() {
       <h1>Formation THP</h1>
 
       <div className="formation">
-        <Card style={{ width: "30rem" }}>
+        <Card style={{ width: "30rem", backgroundColor: "rgba(0, 0, 0, 0.7)", border: "1px solid rgb(131, 210, 241)" }}>
           <Card.Body>
-            <Card.Title>
+            <Card.Title style={{ color: "rgb(131, 210, 241)" }}>
               Formation en perr-learning de 1250h où nous avons appris les sujet
               suivant :
             </Card.Title>
