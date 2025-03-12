@@ -152,8 +152,8 @@
   }
 
   .presentation {
-    width: 80%; /* Utiliser toute la largeur disponible */
-    margin-top: 10px; /* Réduire la marge supérieure */
+    width: 100%; /* Utiliser toute la largeur disponible */
+    margin-top: 150px; /* Réduire la marge supérieure */
   }
 
   .title_and_photo_and_presentation_text {
