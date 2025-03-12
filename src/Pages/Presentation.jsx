@@ -63,7 +63,7 @@ export default function Home() {
               href="https://github.com/thimibka"
               target="_blank"
               rel="noopener noreferrer"
-              style={{  color: "rgb(131, 210, 241)" }}
+              style={{  color: "rgb(255, 255, 255)" }}
             >
               ici
             </a>
@@ -73,13 +73,13 @@ export default function Home() {
               href="https://www.linkedin.com/in/gervais-mickael-thimibka"
               target="_blank"
               rel="noopener noreferrer"
-              style={{  color: "rgb(131, 210, 241)" }}
+              style={{  color: "rgb(255, 255, 255)" }}
             >
               ici
             </a>
             <br />
             EMAIL :{" "}
-            <a href="mailto:fseetp@gmail.com" style={{  color: "rgb(131, 210, 241)" }}>
+            <a href="mailto:fseetp@gmail.com" style={{  color: "rgb(255, 255, 255)" }}>
               Contactez-moi !
             </a>
           </div>

@@ -38,6 +38,7 @@
   pointer-events: none; 
   z-index: -10; /* Assurez-vous qu'il est au-dessus de tout autre contenu */
 }
+
 /* Styles pour chaque caractère */
 .drop {
   position: absolute;
@@ -69,22 +70,23 @@
   }
 }
 
-
-.title_page{
+.title_page {
   display: flex;
   justify-content: center;
-
 }
+
 /* Autres styles pour la présentation */
 .title_and_photo_and_presentation_text {
   display: flex;
-  justify-content: center;
- 
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
 }
 
 .title_and_photo_presentation {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .title_presentation {
@@ -98,21 +100,67 @@
 .presentation {
   display: flex;
   justify-content: center;
-  margin-left: 30px;
   margin-top: 50px;
   color: rgb(131, 210, 241);
-  width: 50%;
+  width: 100%;
+  max-width: 30rem;
 }
 
 .contact_presentation {
   color: rgb(131, 210, 241);
   display: flex;
-  justify-content: start;
-  margin-top: 20px;
-  margin-left: 20px;
   justify-content: center;
+  margin-top: 20px;
+  padding: 20px;
 }
 
 .link_presentation {
-  /* Ajoutez des styles ici si nécessaire */
+  text-align: center;
+}
+
+/* Media Queries pour les petits écrans */
+@media (max-width: 768px) {
+  .banner {
+    height: 30vh; /* Réduire la hauteur de la bannière */
+  }
+
+  .matrixRain {
+    top: 200px; /* Ajuster la position de l'effet Matrix */
+  }
+
+  .presentation {
+    width: 90%; /* Réduire la largeur de la carte */
+    margin-top: 20px; /* Réduire la marge supérieure */
+  }
+
+  .title_and_photo_and_presentation_text {
+    padding: 10px; /* Réduire le padding */
+  }
+
+  .contact_presentation {
+    padding: 10px; /* Réduire le padding */
+  }
+}
+
+@media (max-width: 480px) {
+  .banner {
+    height: 20vh; /* Réduire encore la hauteur de la bannière */
+  }
+
+  .matrixRain {
+    top: 150px; /* Ajuster la position de l'effet Matrix */
+  }
+
+  .presentation {
+    width: 80%; /* Utiliser toute la largeur disponible */
+    margin-top: 10px; /* Réduire la marge supérieure */
+  }
+
+  .title_and_photo_and_presentation_text {
+    padding: 5px; /* Réduire le padding */
+  }
+
+  .contact_presentation {
+    padding: 5px; /* Réduire le padding */
+  }
 }
