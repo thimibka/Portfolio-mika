@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+oimport { useEffect } from "react";
 
 export default function BannerEffect() {
   useEffect(() => {
@@ -30,7 +30,7 @@ export default function BannerEffect() {
       matrixRain.appendChild(drop);
       setTimeout(() => {
         matrixRain.removeChild(drop);
-      }, duration * 0,500);
+      }, duration * 800);
     }
 
     // Générer les caractères toutes les 100 ms
