@@ -30,11 +30,11 @@ export default function BannerEffect() {
       matrixRain.appendChild(drop);
       setTimeout(() => {
         matrixRain.removeChild(drop);
-      }, duration * 200);
+      }, duration * 8000);
     }
 
     // Générer les caractères toutes les 100 ms
-    const interval = setInterval(createRainEffect, 10);
+    const interval = setInterval(createRainEffect, 100);
 
     return () => clearInterval(interval);
   }, []);
