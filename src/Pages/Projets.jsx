@@ -30,7 +30,7 @@ export default function Projets() {
               />
               <Card.Body>
                 <Card.Title style={{ color: "rgb(131, 210, 241)" }}>
-                  Projet perso
+                  Les crochets de Marinette 
                 </Card.Title>
                 <Card.Text>
                   <p>
@@ -67,7 +67,7 @@ export default function Projets() {
               />
               <Card.Body>
                 <Card.Title style={{ color: "rgb(131, 210, 241)" }}>
-                  Projet perso
+                  FindGame
                 </Card.Title>
                 <Card.Text>
                   <p>
@@ -104,7 +104,7 @@ export default function Projets() {
               />
               <Card.Body>
                 <Card.Title style={{ color: "rgb(131, 210, 241)" }}>
-                  Projet perso
+                  SearchFilm
                 </Card.Title>
                 <Card.Text>
                   <p>Création d&apos;un site de recherche de films</p>
@@ -138,7 +138,7 @@ export default function Projets() {
               />
               <Card.Body>
                 <Card.Title style={{ color: "rgb(131, 210, 241)" }}>
-                  Projet perso
+                  Culture Sound
                 </Card.Title>
                 <Card.Text>
                   <p>Création d&apos;un blind-test</p>
